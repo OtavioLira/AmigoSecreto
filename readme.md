@@ -18,7 +18,7 @@ Este projeto foi desenvolvido para fins educacionais, criado para resolver o **C
 
 A aplicação permite organizar um sorteio de amigo secreto de forma digital, onde os usuários podem adicionar nomes de participantes e realizar o sorteio de forma aleatória e divertida.
 
-**Acesse o projeto online:** [colocar_link_do_site]
+**Acesse o projeto online:** [Amigo Secreto By Otávio Lira Neves](https://amigosecreto-gilt.vercel.app/)
 
 ## Tabela de conteudos
 
