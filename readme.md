@@ -12,7 +12,7 @@
 
 ## Sobre o Projeto
 
-<img src="assets/imagem_do_projeto.png" alt="Amigo Secreto Logo" width="100%">
+<img src="assets/imagem_do_projeto.png" alt="Imagem do site" width="100%">
 
 Este projeto foi desenvolvido para fins educacionais, criado para resolver o **Challenge Amigo Secreto** do curso "Praticando Lógica de Programação" da **ONE (Oracle Next Education)** em parceria com a **Alura**.
 
@@ -76,8 +76,7 @@ A aplicação permite organizar um sorteio de amigo secreto de forma digital, on
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/<seu-usuario>/challenge-amigo-secreto.git
-   # Substitua <seu-usuario> pelo seu usuário do GitHub
+   git clone https://github.com/OtavioLira/AmigoSecreto.git
    ```
 
 2. **Acesse a pasta**
