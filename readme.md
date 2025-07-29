@@ -18,6 +18,8 @@ Este projeto foi desenvolvido para fins educacionais, criado para resolver o **C
 
 A aplicação permite organizar um sorteio de amigo secreto de forma digital, onde os usuários podem adicionar nomes de participantes e realizar o sorteio de forma aleatória e divertida.
 
+ **Site online** [Amigo Secreto By Otavio Lira](https://vercel.com/otavio-liras-projects/amigo-secreto/6AWSRedZCdgpJp38ppNf1PmRq2kL)
+
 ## Tabela de conteudos
 
 - [Propósito](#propósito)
